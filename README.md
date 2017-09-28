@@ -3,8 +3,7 @@ This is the code for "A Guide to Building Your First Decentralized Application" 
 
 
 ## Overview
-
-This is the code for [this](https://youtu.be/gSQXq2_j-mw) video on Youtube by Siraj Raval. It's a guide on how to build your first decentralized application. 
+It's a guide on how to build your first decentralized application. 
 
 ## Dependencies
 
@@ -37,4 +36,4 @@ Interact with the contract via the html page attached, just open it in your brow
 
 ## Credits
 
-The credits for this code go to [maheshmurthy](https://gist.github.com/maheshmurthy). I've merely created a wrapper to get people started. 
+
