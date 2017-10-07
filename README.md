@@ -1,9 +1,9 @@
-# Your_First_Decentralized_Application
-This is the code for "A Guide to Building Your First Decentralized Application" by Siraj Raval on Youtube
+# Decentralized_Application
+This is the code for to Building a Decentralized Application
 
 
 ## Overview
-It's a guide on how to build your first decentralized application. 
+
 
 ## Dependencies
 
@@ -18,7 +18,7 @@ Install missing dependencies with [npm](https://www.npmjs.com/).
 Run the following commands to open the node console then deploy your contract to the test chain
 
 ```
-siraj:~/hello_world_voting$ node
+singhsidhukuldeep:~/hello_world_voting$ node
 > Web3 = require('web3')
 > web3 = new Web3(new Web3.providers.HttpProvider("http://localhost:8545"));
 > code = fs.readFileSync('Voting.sol').toString()
@@ -34,6 +34,16 @@ siraj:~/hello_world_voting$ node
 
 Interact with the contract via the html page attached, just open it in your browser. See [this](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2) tutorial for more details. 
 
-## Credits
 
+## CREDITS
 
+>Kuldeep Singh Sidhu
+
+Github: [github/singhsidhukuldeep](https://github.com/singhsidhukuldeep)
+`https://github.com/singhsidhukuldeep`
+
+Website: [Kuldeep Singh Sidhu (Website)](http://kuldeepsinghsidhu.esy.es)
+`http://kuldeepsinghsidhu.esy.es`
+
+LinkedIn: [Kuldeep Singh Sidhu (LinkedIn)](https://www.linkedin.com/in/kuldeep-singh-sidhu-96a67170/)
+`https://www.linkedin.com/in/kuldeep-singh-sidhu-96a67170/`
